@@ -38,3 +38,22 @@ This repository contains Java programs for DSA and problem solving practice.
 | Swap 2 Numbers Method 2 | [View Code](./Number_Programs/Swap2Numbers.java) |
 
 ---
+
+
+---
+
+## Array Programs
+
+| Question | Solution |
+|----------|----------|
+| Array Average | [View Code](./Arrays/ArrayAverage.java) |
+| Array Sum | [View Code](./Arrays/ArraySum.java) |
+| Check Sorted Array | [View Code](./Arrays/CheckSortedArray.java) |
+| Count Even Odd | [View Code](./Arrays/CountEvenOdd.java) |
+| Count Positive Negative | [View Code](./Arrays/CountPositiveNegative.java) |
+| Largest Element | [View Code](./Arrays/LargestElement.java) |
+| Linear Search | [View Code](./Arrays/LinearSearch.java) |
+| Reverse Array | [View Code](./Arrays/ReverseArray.java) |
+| Smallest Element | [View Code](./Arrays/SmallestElement.java) |
+
+---
